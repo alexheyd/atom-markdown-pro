@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-markdown-pro",
+        "command": "atom-markdown-pro:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-markdown-pro",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-markdown-pro:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

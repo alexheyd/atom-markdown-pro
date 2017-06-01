@@ -1,0 +1,18 @@
+{
+  "name": "atom-markdown-pro",
+  "main": "./lib/atom-markdown-pro",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-markdown-pro:toggle"
+  },
+  "repository": "https://github.com/atom/atom-markdown-pro",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
